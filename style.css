@@ -362,3 +362,57 @@ a {
     background-color: #485769;
 }
 
+.detail {
+    height: 350px;
+    background-color: #232f3e;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+
+.listn {
+    list-style-type: none;
+}
+
+.listn li{
+    padding-top: 12px;
+    font-family: Arial, sans-serif;
+    font-size: 0.9rem;
+    color: #DDDDDD;
+}
+
+.listn p{
+    font-weight: 570;
+    margin-bottom: 4px;
+    color: white;
+}
+
+.listn li:hover{
+    text-decoration: underline;
+    text-decoration-color: #DDDDDD;
+}
+
+.lang {
+    height: 100px;
+    background-color: #232f3e;
+    border-top: 2px dotted white;
+}
+
+.detailx {
+    width: 250px;
+}
+
+.detailspc {
+    width: 180px;
+}
+
+.boxy {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.bxxx {
+    width: 180px;
+    margin-right: 20px;
+}
